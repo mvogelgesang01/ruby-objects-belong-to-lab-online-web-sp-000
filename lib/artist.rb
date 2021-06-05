@@ -7,4 +7,4 @@ class Artist
 
 end
 
-Author.new
+Artist.new
