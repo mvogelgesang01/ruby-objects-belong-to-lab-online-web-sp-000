@@ -8,4 +8,5 @@ class Artist
 
 end
 
-Artist.new
+artist = Artist.new
+artist.name = "Beyonce"
